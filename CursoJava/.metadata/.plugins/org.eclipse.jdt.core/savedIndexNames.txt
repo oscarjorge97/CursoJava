@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\INFORMATICA\WkSpace\wkUdemy\CursoJava\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1127980387.index
+3011209426.index
